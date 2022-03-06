@@ -1,0 +1,11 @@
+C:\Users\Acer\OneDrive\Desktop\Reservation\ReservationManager\ReservationManager\obj\Debug\ReservationManager.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Reservation\ReservationManager\ReservationManager\obj\Debug\ReservationManager.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\Reservation\ReservationManager\ReservationManager\obj\Debug\ReservationManager.View.RegisterView.resources
+C:\Users\Acer\OneDrive\Desktop\Reservation\ReservationManager\ReservationManager\obj\Debug\ReservationManager.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\Reservation\ReservationManager\ReservationManager\obj\Debug\ReservationManager.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Reservation\ReservationManager\ReservationManager\bin\Debug\ReservationManager.exe.config
+C:\Users\Acer\OneDrive\Desktop\Reservation\ReservationManager\ReservationManager\bin\Debug\ReservationManager.exe
+C:\Users\Acer\OneDrive\Desktop\Reservation\ReservationManager\ReservationManager\bin\Debug\ReservationManager.pdb
+C:\Users\Acer\OneDrive\Desktop\Reservation\ReservationManager\ReservationManager\obj\Debug\ReservationManager.exe
+C:\Users\Acer\OneDrive\Desktop\Reservation\ReservationManager\ReservationManager\obj\Debug\ReservationManager.pdb
+C:\Users\Acer\OneDrive\Desktop\Reservation\ReservationManager\ReservationManager\obj\Debug\ReservationManager.View.LoginView.resources
