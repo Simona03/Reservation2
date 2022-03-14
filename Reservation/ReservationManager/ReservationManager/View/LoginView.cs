@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ReservationManager.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,5 +17,13 @@ namespace ReservationManager.View
         {
             InitializeComponent();
         }
+
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            Client c = new Client();
+            c.FirstName = txtUsername.Text;
+            c.Email = 
+        }
+
     }
 }

@@ -46,9 +46,10 @@ namespace ReservationManager.View
             this.lblLogin.AutoSize = true;
             this.lblLogin.BackColor = System.Drawing.Color.Transparent;
             this.lblLogin.Font = new System.Drawing.Font("Mongolian Baiti", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblLogin.Location = new System.Drawing.Point(209, 59);
+            this.lblLogin.Location = new System.Drawing.Point(157, 48);
+            this.lblLogin.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblLogin.Name = "lblLogin";
-            this.lblLogin.Size = new System.Drawing.Size(141, 50);
+            this.lblLogin.Size = new System.Drawing.Size(113, 40);
             this.lblLogin.TabIndex = 1;
             this.lblLogin.Text = "Login";
             // 
@@ -58,19 +59,21 @@ namespace ReservationManager.View
             this.lblPassword.BackColor = System.Drawing.Color.Transparent;
             this.lblPassword.Font = new System.Drawing.Font("Mongolian Baiti", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPassword.ForeColor = System.Drawing.Color.White;
-            this.lblPassword.Location = new System.Drawing.Point(65, 279);
+            this.lblPassword.Location = new System.Drawing.Point(49, 227);
+            this.lblPassword.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblPassword.Name = "lblPassword";
-            this.lblPassword.Size = new System.Drawing.Size(110, 25);
+            this.lblPassword.Size = new System.Drawing.Size(87, 20);
             this.lblPassword.TabIndex = 6;
             this.lblPassword.Text = "Password:";
             // 
             // txtPassword
             // 
             this.txtPassword.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPassword.Location = new System.Drawing.Point(192, 269);
+            this.txtPassword.Location = new System.Drawing.Point(144, 219);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtPassword.Multiline = true;
             this.txtPassword.Name = "txtPassword";
-            this.txtPassword.Size = new System.Drawing.Size(251, 33);
+            this.txtPassword.Size = new System.Drawing.Size(189, 28);
             this.txtPassword.TabIndex = 7;
             // 
             // lblUsername
@@ -79,19 +82,21 @@ namespace ReservationManager.View
             this.lblUsername.BackColor = System.Drawing.Color.Transparent;
             this.lblUsername.Font = new System.Drawing.Font("Mongolian Baiti", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblUsername.ForeColor = System.Drawing.Color.White;
-            this.lblUsername.Location = new System.Drawing.Point(65, 198);
+            this.lblUsername.Location = new System.Drawing.Point(49, 161);
+            this.lblUsername.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblUsername.Name = "lblUsername";
-            this.lblUsername.Size = new System.Drawing.Size(116, 25);
+            this.lblUsername.Size = new System.Drawing.Size(90, 20);
             this.lblUsername.TabIndex = 4;
             this.lblUsername.Text = "Username:";
             // 
             // txtUsername
             // 
             this.txtUsername.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtUsername.Location = new System.Drawing.Point(192, 188);
+            this.txtUsername.Location = new System.Drawing.Point(144, 153);
+            this.txtUsername.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtUsername.Multiline = true;
             this.txtUsername.Name = "txtUsername";
-            this.txtUsername.Size = new System.Drawing.Size(251, 33);
+            this.txtUsername.Size = new System.Drawing.Size(189, 28);
             this.txtUsername.TabIndex = 5;
             // 
             // lblEmail
@@ -100,19 +105,21 @@ namespace ReservationManager.View
             this.lblEmail.BackColor = System.Drawing.Color.Transparent;
             this.lblEmail.Font = new System.Drawing.Font("Mongolian Baiti", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblEmail.ForeColor = System.Drawing.Color.White;
-            this.lblEmail.Location = new System.Drawing.Point(60, 361);
+            this.lblEmail.Location = new System.Drawing.Point(45, 293);
+            this.lblEmail.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblEmail.Name = "lblEmail";
-            this.lblEmail.Size = new System.Drawing.Size(83, 25);
+            this.lblEmail.Size = new System.Drawing.Size(65, 20);
             this.lblEmail.TabIndex = 12;
             this.lblEmail.Text = "E-mail:";
             // 
             // txtEmail
             // 
             this.txtEmail.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtEmail.Location = new System.Drawing.Point(192, 353);
+            this.txtEmail.Location = new System.Drawing.Point(144, 287);
+            this.txtEmail.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtEmail.Multiline = true;
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(252, 33);
+            this.txtEmail.Size = new System.Drawing.Size(190, 28);
             this.txtEmail.TabIndex = 13;
             // 
             // lblNoAccaunt
@@ -121,9 +128,10 @@ namespace ReservationManager.View
             this.lblNoAccaunt.BackColor = System.Drawing.Color.Transparent;
             this.lblNoAccaunt.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNoAccaunt.ForeColor = System.Drawing.Color.SandyBrown;
-            this.lblNoAccaunt.Location = new System.Drawing.Point(61, 486);
+            this.lblNoAccaunt.Location = new System.Drawing.Point(46, 395);
+            this.lblNoAccaunt.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblNoAccaunt.Name = "lblNoAccaunt";
-            this.lblNoAccaunt.Size = new System.Drawing.Size(224, 21);
+            this.lblNoAccaunt.Size = new System.Drawing.Size(184, 16);
             this.lblNoAccaunt.TabIndex = 14;
             this.lblNoAccaunt.Text = "Don\'t Have An Account";
             // 
@@ -132,20 +140,22 @@ namespace ReservationManager.View
             this.btnRegister.BackColor = System.Drawing.Color.SandyBrown;
             this.btnRegister.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnRegister.Font = new System.Drawing.Font("Mongolian Baiti", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegister.Location = new System.Drawing.Point(310, 469);
+            this.btnRegister.Location = new System.Drawing.Point(232, 381);
+            this.btnRegister.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnRegister.Name = "btnRegister";
-            this.btnRegister.Size = new System.Drawing.Size(160, 38);
+            this.btnRegister.Size = new System.Drawing.Size(120, 31);
             this.btnRegister.TabIndex = 15;
             this.btnRegister.Text = "Register";
             this.btnRegister.UseVisualStyleBackColor = false;
+            this.btnRegister.Click += new System.EventHandler(this.btnRegister_Click);
             // 
             // LoginView
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(574, 614);
+            this.ClientSize = new System.Drawing.Size(430, 499);
             this.Controls.Add(this.btnRegister);
             this.Controls.Add(this.lblNoAccaunt);
             this.Controls.Add(this.lblEmail);
@@ -155,6 +165,7 @@ namespace ReservationManager.View
             this.Controls.Add(this.lblUsername);
             this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.lblLogin);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "LoginView";
             this.Text = "LoginView";
             this.ResumeLayout(false);
